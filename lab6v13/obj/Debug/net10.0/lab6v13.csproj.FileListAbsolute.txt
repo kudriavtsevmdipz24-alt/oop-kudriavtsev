@@ -1,0 +1,15 @@
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\bin\Debug\net10.0\lab6v13.exe
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\bin\Debug\net10.0\lab6v13.deps.json
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\bin\Debug\net10.0\lab6v13.runtimeconfig.json
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\bin\Debug\net10.0\lab6v13.dll
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\bin\Debug\net10.0\lab6v13.pdb
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\obj\Debug\net10.0\lab6v13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\obj\Debug\net10.0\lab6v13.AssemblyInfoInputs.cache
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\obj\Debug\net10.0\lab6v13.AssemblyInfo.cs
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\obj\Debug\net10.0\lab6v13.csproj.CoreCompileInputs.cache
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\obj\Debug\net10.0\lab6v13.sourcelink.json
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\obj\Debug\net10.0\lab6v13.dll
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\obj\Debug\net10.0\refint\lab6v13.dll
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\obj\Debug\net10.0\lab6v13.pdb
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\obj\Debug\net10.0\lab6v13.genruntimeconfig.cache
+C:\Users\MAX\Desktop\oop\OOP-Кудрявцев\lab2v13\lab6v13\obj\Debug\net10.0\ref\lab6v13.dll
